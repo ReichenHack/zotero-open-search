@@ -1,0 +1,5 @@
+content	zotero-open-search				chrome/content/zotero-open-search/
+locale	zotero-open-search	en-US		chrome/locale/en-US/zotero-open-search/
+skin	zotero-open-search	default		chrome/skin/default/zotero-open-search/
+
+overlay	chrome://zotero/content/zoteroPane.xul	chrome://zotero-open-search/content/overlay.xul
